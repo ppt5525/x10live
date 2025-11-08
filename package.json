@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "x10login.js",
   "scripts": {
-    "start": "node x10login.js"
+    "start": "node x10login.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "dependencies": {
-    "axios": "latest",
-    "playwright": "latest"
+    "axios": "^1.6.0",
+    "playwright": "^1.40.0"
   }
 }
