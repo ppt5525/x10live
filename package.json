@@ -1,0 +1,12 @@
+{
+  "name": "keepalive-x10hosting",
+  "version": "1.0.0",
+  "main": "x10login.js",
+  "scripts": {
+    "start": "node x10login.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "playwright": "latest"
+  }
+}
